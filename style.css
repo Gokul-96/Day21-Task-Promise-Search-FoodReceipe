@@ -1,0 +1,12 @@
+body{
+    background-image: url(foodimg.png)
+}
+.text-white{
+    background-image: linear-gradient(to left,rgb(214, 122, 9),rgb(1, 23, 20)); 
+}
+.btn{
+    background-image: linear-gradient(to left,rgb(177, 48, 101),rgb(15, 176, 181));  
+}
+.card{
+    background-image: linear-gradient(to left,rgb(243, 11, 96),rgb(123, 75, 218));  
+}
